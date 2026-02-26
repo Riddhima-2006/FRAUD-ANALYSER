@@ -1,0 +1,9 @@
+streamlit>=1.54.0
+pandas>=2.3.3
+numpy>=2.4.2
+plotly>=6.5.2
+networkx>=3.6.1
+scikit-learn>=1.8.0
+scipy>=1.17.1
+python-louvain>=0.16
+torch>=2.10.0
